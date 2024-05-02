@@ -1,0 +1,10 @@
+{
+  "name": "USDT",
+  "website": "https://onenesslabs.io",
+  "description": "Tether USD",
+  "type": "ERC20",
+  "symbol": "USDT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbC3f1A7203b7f7EF3d6Fd1Da2d702dB952207825"
+}

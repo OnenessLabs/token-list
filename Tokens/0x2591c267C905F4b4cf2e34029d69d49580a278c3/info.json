@@ -1,0 +1,10 @@
+{
+  "name": "oUsd",
+  "website": "https://onenesslabs.io",
+  "description": "Oneness USD",
+  "type": "ERC20",
+  "symbol": "oUsd",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2591c267C905F4b4cf2e34029d69d49580a278c3"
+}

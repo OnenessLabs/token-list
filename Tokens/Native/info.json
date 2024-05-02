@@ -1,0 +1,9 @@
+{
+  "name": "Bitcoin",
+  "website": "https://onenesslabs.io",
+  "description": "Bitcoin on Oneness",
+  "type": "ERC20",
+  "symbol": "BTC",
+  "decimals": 18,
+  "status": "active"
+}

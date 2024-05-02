@@ -1,0 +1,10 @@
+{
+  "name": "USDC",
+  "website": "https://onenesslabs.io",
+  "description": "USD Coin",
+  "type": "ERC20",
+  "symbol": "USDC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9BF054279893C80C84cd8C74C3be299BaB9C8a29"
+}

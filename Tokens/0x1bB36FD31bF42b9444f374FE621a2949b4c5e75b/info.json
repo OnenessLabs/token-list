@@ -1,0 +1,10 @@
+{
+  "name": "OST",
+  "website": "https://onenesslabs.io",
+  "description": "Oneness Swap Token",
+  "type": "ERC20",
+  "symbol": "OST",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1bB36FD31bF42b9444f374FE621a2949b4c5e75b"
+}

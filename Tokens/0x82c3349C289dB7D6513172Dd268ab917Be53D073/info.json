@@ -1,0 +1,10 @@
+{
+  "name": "Wrapped BTC",
+  "website": "https://onenesslabs.io",
+  "description": "Wrapped Bitcoin",
+  "type": "ERC20",
+  "symbol": "WBTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x82c3349C289dB7D6513172Dd268ab917Be53D073"
+}
